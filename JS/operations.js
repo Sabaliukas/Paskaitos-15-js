@@ -94,6 +94,6 @@ console.log('Visa ABC:', abcSakinys);
 console.log( pazymiai[3] );
 console.log( pazymiai[0] );
 console.log( pazymiai[1] );
-console.log( pazymiai[4] );
+console.log( pazymiai[1] );
 
 
