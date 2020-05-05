@@ -91,4 +91,9 @@ abcSakinys = abcSakinys + abc[4];
 abcSakinys = abcSakinys + abc[5];
 console.log('Visa ABC:', abcSakinys);
 
-console.log( pazymiai[3.141529654] );
+console.log( pazymiai[3] );
+console.log( pazymiai[0] );
+console.log( pazymiai[1] );
+console.log( pazymiai[4] );
+
+
